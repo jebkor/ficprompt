@@ -1,0 +1,33 @@
+const dateIdeas = [
+  "blindfolding your date, leading them to a wonderful surprise.",
+  "beautiful picnic in the garden.",
+  "taking photographs of each other.",
+  "dancing under the stars.",
+  "sleep under the stars, roast marshmallows and stargaze.",
+  "visit museums (could be art, archeology, dinosaurs, human evolution, space).",
+  "a standard date, dinner and a movie.",
+  "drive-in movie date, dinner at a fast-food place at one a.m..",
+  "playing mini golf or some other type of sport.",
+  "going to an amusement park, sharing a kiss in the alley.",
+  "going to a food truck festival.",
+  "cooking or baking class! alternatively, cooking together at home.",
+  "asking your “friend” to be your plus-one to another friend’s wedding.",
+  "visit an antique book story, choose books for each other to read.",
+  "a date spent cruising around town, visiting small shops, resting your legs at a quiet, cozy little café, holding hands over the table.",
+  "exploring old castles, monuments, tourist attractions.",
+  "breakfast dates.",
+  "watching the sunset or sunrise.",
+  "going for a midnight drive.",
+  "doing an activity you’re both terrible at, for a good old laugh .",
+  "playing video/board games together.",
+  "writing each other love letters.",
+  "recreating your first/favorite date.",
+  "building a snowman, having a snowball fight.",
+  "going to a pumpkin patch, choosing the perfect pumpkin, decorating for halloween together. alternatively, decorating for christmas.",
+  "go to an escape room.",
+  "make a time capsule.",
+  "visit a haunted house.",
+  "meet each other in a bar, assume new identities, and try to pick each other up."
+];
+
+export default dateIdeas

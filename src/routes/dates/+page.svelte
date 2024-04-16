@@ -1,6 +1,6 @@
 <script>
   import Prompt from '../../lib/components/Prompt/Prompt.svelte'
-  import prompts from '$lib/components/Prompt/prompts'
+  import dateIdeas from '$lib/components/Prompt/dateIdeas'
 </script>
 
 <!-- <svelte:head>
@@ -9,7 +9,7 @@
 </svelte:head> -->
 
 <section class="grid grid-cols-12 px-8 justify-items-center items-center h-screen">
-  <Prompt prompts={prompts}/>
+  <Prompt prompts={dateIdeas}/>
 </section>
 
 <style lang="scss"></style>
