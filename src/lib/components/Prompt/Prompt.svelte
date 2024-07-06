@@ -7,7 +7,6 @@
     <select bind:value={selectedCategory} on:change={() => setCategory()} class="bg-white text-black border border-gray-300 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5">
       <option selected value="" disabled>Choose a cetegory</option>
       <option value="fluff">Fluff</option>
-      <option value="toothrotting">Tooth-rotting fluff</option>
       <option value="kisses">Kisses</option>
       <option value="dates">Dates</option>
       <option value="nsfw">NSFW</option>
