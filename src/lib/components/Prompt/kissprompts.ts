@@ -1,4 +1,4 @@
-export const kissPrompts = [
+const kissPrompts = [
   'Small kisses littered across the other’s face.',
   'A small, fleeting kiss - which is immediately followed by a passionate, hungry kiss.',
   'A breathy demand: “Kiss me” - and what the other person does to respond.',
@@ -105,3 +105,5 @@ export const kissPrompts = [
   '{A} and {B} recreating their first kiss.',
   "{B} kissing away {A}'s tears.",
 ]
+
+export default kissPrompts

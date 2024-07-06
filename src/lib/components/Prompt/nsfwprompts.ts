@@ -1,4 +1,4 @@
-export const nsfwPrompts = [
+const nsfwPrompts = [
 	'{A} and {B} sending each other nudes.',
 	"{A} and {B} enjoying a night of stargazing. Things are going well and they start to kiss/make out when a storm hits. Instead of seeking shelter from the rain, they make love under the night sky, not caring if they're drenched, just caught up in the moment of passion itself.",
 	"{B} and {A} staying at a hotel outside of town for a lazy, romantic weekend, most of which they spend nude. {B} decides that they feel too comfortable and doesn't want to get up to go out for food, so {A} decides to order out for them and get dressed just enough to meet the delivery person at the door. While {A} is accepting the order, {B} wraps up in a sheet and comes up behind them, smug as both {A} and the delivery person become flustered.",
@@ -363,3 +363,6 @@ export const nsfwPrompts = [
 	"{A} and {B} are stuck in an elevator and it'll take a while to get rescued? No big deal. Gives {B} time to get in {A}'s pants.",
 	"Dirty, nasty, wet sex. {B} makes {A} sweat, cry, drool, cough up phlegm, drip cum or snot or body fluids of any type - whatever presses your buttons. Have {A} and {B} leave a mess all over the place. Give new meaning to 'rode hard and put away wet.'"
 ];
+
+
+export default nsfwPrompts
