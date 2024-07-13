@@ -99,11 +99,11 @@ const kissPrompts = [
   'tending to your lover’s wound, placing a kiss on top of their head, grateful they’re still alive',
   'spinning your lover into a kiss on the dance floor',
   'kisses in which, i can’t believe this is real, but i love you so much',
-  '{A} and {B} share a light kiss.',
-	'{B} and {A} share a passionate kiss.',
-  '{B} and {A} touching their foreheads against each other, sharing kisses.',
-  '{A} and {B} recreating their first kiss.',
-  "{B} kissing away {A}'s tears.",
+  '<b>{A}</b> and <b>{B}</b> share a light kiss.',
+	'<b>{B}</b> and <b>{A}</b> share a passionate kiss.',
+  '<b>{B}</b> and <b>{A}</b> touching their foreheads against each other, sharing kisses.',
+  '<b>{A}</b> and <b>{B}</b> recreating their first kiss.',
+  "<b>{B}</b> kissing away <b>{A}</b>'s tears.",
 ]
 
 export default kissPrompts
